@@ -19,7 +19,7 @@ const Blog = () => {
                 </h3>
                 <div>
                   <ul className='ps-0'>
-                    <li>Technology</li>
+                    <li>Technologys</li>
                     <li>Music</li>
                     <li>Video</li>
                     <li>VR</li>
